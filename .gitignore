@@ -1,0 +1,17 @@
+# Ignore everything inside the datasets folder
+datasets/*
+
+# Ignore the runs folder and all its contents
+runs/
+
+# Ignore all .pt files anywhere in the repository
+**/*.pt
+
+# Ignore all .jpg files anywhere in the repository
+**/*.jpg
+
+# Ignore all .png files anywhere in the repository
+**/*.png
+
+# Ignore all .cache files anywhere in the repository
+**/*.cache
