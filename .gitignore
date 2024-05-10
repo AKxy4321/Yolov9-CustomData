@@ -1,5 +1,5 @@
 # Ignore everything inside the datasets folder
-datasets/*
+datasets/*_split
 
 # Ignore the runs folder and all its contents
 runs/
