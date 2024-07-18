@@ -1,12 +1,5 @@
 path: yolov9_split
 train: train
 val: valid
-nc: 4
-names: ['light_pole', 'pothole-ditch', 'roadside_stall', 'vehicle']
-
-roboflow:
-  workspace: yolov7-yjr5h
-  project: hi-2-81zf3
-  version: 1
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/yolov7-yjr5h/hi-2-81zf3/dataset/1
+nc: 3
+names: ['Calcification', 'Mass', 'Others']
