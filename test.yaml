@@ -1,0 +1,5 @@
+path: yolov9_split
+train: train
+val: test
+nc: 3
+names: ['Calcification', 'Mass', 'Others']
